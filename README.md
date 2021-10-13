@@ -1,4 +1,4 @@
-### Hi there 👋, I am Velin 
+<h2 align="center">Hi there 👋, I am Velin</h2>
 
 <h3 align="center">Trainee Full-Stack Developer</h3>
 
