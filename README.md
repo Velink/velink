@@ -11,5 +11,5 @@
 - 😄 Bad Joke: Two bytes meet.  The first byte asks, “Are you ill?” The second byte replies, “No, just feeling a bit off.”
 - ⚡ Fun fact: I've met Usain Bolt 
 
-[![Velin's GitHub stats](https://github-readme-stats.vercel.app/api?username=velink)](https://github.com/velink/github-readme-stats)
+[![Velin's GitHub stats](https://github-readme-stats.vercel.app/api?username=velink&show_icons=true&theme=radical)](https://github.com/velink/github-readme-stats)
 
