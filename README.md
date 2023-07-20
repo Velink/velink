@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I am Velin</h2>
 
-<h3 align="center">Freelance Web Developer</h3>
+<h3 align="center">Freelance Web Developer & Cloud Engineer</h3>
 
 <a href="https://www.linkedin.com/in/velin-kalenderski-603a33b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
